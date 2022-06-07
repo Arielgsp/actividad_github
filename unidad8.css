@@ -1,0 +1,26 @@
+section{
+    max-width: 350px;
+    margin: auto;
+}
+
+.margin{
+    margin-left: 50px;
+    
+}
+
+.input-password{
+    margin-left: 14px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.submit{
+    margin-left: 108px;
+}
+
+.input{
+    width: 150px;
+}
